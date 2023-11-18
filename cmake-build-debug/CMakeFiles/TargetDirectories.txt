@@ -1,0 +1,3 @@
+/Users/yimingzhang/Library/Mobile Documents/com~apple~CloudDocs/CLionProjects/bit/saolei/cmake-build-debug/CMakeFiles/saolei.dir
+/Users/yimingzhang/Library/Mobile Documents/com~apple~CloudDocs/CLionProjects/bit/saolei/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yimingzhang/Library/Mobile Documents/com~apple~CloudDocs/CLionProjects/bit/saolei/cmake-build-debug/CMakeFiles/rebuild_cache.dir
